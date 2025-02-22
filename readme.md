@@ -3,7 +3,7 @@ This source code is an Spring Boot web application).
  
 ## How to run this?
 ```bash
-$ git clone https://github.com/akannan1087/docker-spring-boot
+$ git clone https://github.com/mohamedBenzouine/springboot-eks-helm-jenkins
 $ cd docker-spring-boot
 $ mvn clean package
 $ java -jar target/spring-boot-web.jar
